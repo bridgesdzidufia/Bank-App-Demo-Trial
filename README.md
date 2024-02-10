@@ -31,7 +31,7 @@ The app starts with a login screen, in which the user can either log in with an 
 - The app follows the Material Design guidelines, most notably with the icons of the app. Also noticeable in the DrawerLayout, the custom toolbar, and the 'Add' buttons in some of the fragments.
 - Resource files are used (best practice) for strings, colors, drawables, and styles.
 - Runs on Android API 19 and up
-- This app was built by following a tutorial closely.
+- THIS APP WAS BUILT FOLLOWING A TUTORIAL CLOSELY.
 
 # CURRENTLY IN DEVELOPMENT
 
